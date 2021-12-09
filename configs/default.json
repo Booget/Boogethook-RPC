@@ -1,0 +1,20 @@
+{
+    "client_id" : "918303634087890984",
+
+    "top_text" : "Booget cant lack...",
+    "bottom_text" : ".gg/LCProxy",
+
+    "large_image_name" : "rpclogo", 
+    "large_image_name_text" : "booget#0001", 
+
+    "include_button1" : "true",
+    "include_button2" : "true",
+
+    "button1_text" : "booget.rip",
+    "button1_link" : "https://booget.rip/",
+    
+    "button2_text" : "My Discord",
+    "button2_link" : "https://discord.gg/HdtTvMJtWT",
+
+    "time_elapse" : "true"    
+}
