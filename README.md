@@ -8,8 +8,8 @@
   ## 🖥️ Features
 - ⚡ Top text
 - ⚡ Bottom text
-- ⚡ Buttons (Optinal)
-- ⚡ Time elapse (Optinal)
+- ⚡ Buttons (Optional)
+- ⚡ Time elapse (Optional)
 - ⚡ Image
 - ⚡ Image text
 
